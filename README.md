@@ -2,4 +2,4 @@
 This restaurant project for windows os desktop aplication written with Tkinter
 
 # database
-* for database in this project e=used sqlite3
+* for database in this project used sqlite3
